@@ -2,9 +2,9 @@
 layout: page
 title: Software / Open-source
 permalink: /software/
-description: Projects which I built, maintain and contribute to
+description: Things that I built, maintain and contribute to
 nav: true
-nav_order: 3
+nav_order: 2
 ---
 
 <div class="projects">

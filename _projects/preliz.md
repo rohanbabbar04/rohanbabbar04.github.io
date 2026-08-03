@@ -1,11 +1,10 @@
 ---
 layout: page
 title: PreliZ
-description: Prior Elicitation.
 img: assets/img/preliz.png
-importance: 2
-category: Open Source
+importance: 3
 github: https://github.com/arviz-devs/preliz
 ---
 
-This project is in the domain of prior elicitation.
+PreliZ is a Python package that helps you pick prior distributions for Bayesian models, with tools for visualizing, 
+tweaking, and eliciting priors.
