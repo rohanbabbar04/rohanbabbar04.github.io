@@ -2,7 +2,7 @@
 layout: page
 title: MPI and Spack based HPC Cluster
 img: assets/img/chameleon_mpi.png
-importance: 2
+importance: 3
 github: https://github.com/pmodels/cc-hpc-appliances
 doc: https://chameleoncloud.org/experiment/share/7424a8dc-0688-4383-9d67-1e40ff37de17
 ---

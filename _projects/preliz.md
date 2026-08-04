@@ -2,7 +2,7 @@
 layout: page
 title: PreliZ
 img: assets/img/preliz.png
-importance: 3
+importance: 2
 github: https://github.com/arviz-devs/preliz
 ---
 
