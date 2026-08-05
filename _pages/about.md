@@ -20,7 +20,7 @@ announcements:
   limit:  # leave blank to include all the news in the `_news` folder
 ---
 
-I am a Data Analyst at Stryker Corporation. I graduated from the University of Delhi with a Bachelor's degree in Information Technology and Mathematical Innovations.
+I am a Data Analyst at **Stryker Corporation**. I graduated from the **University of Delhi** with a Bachelor's degree in Information Technology and Mathematical Innovations.
 
 Previously, I was an Open Source Research Experience Student (OSRE) at **MPICH, Argonne National Laboratory**, through the **REPETO** Program on **Chameleon Cloud**, where I worked on reproducible high-performance computing environments and cloud infrastructure for scientific research. 
 
