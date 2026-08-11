@@ -33,7 +33,7 @@ August 2024 - Present | Gurugram, India
 
 ### Open Source Research Experience Developer, [MPICH](https://www.mpich.org/), [Argonne National Laboratory](https://www.anl.gov)
 May 2025 - August 2025<br>
-Mentor: Ken Raffenetti
+Mentor: [Ken Raffenetti](https://github.com/raffenet)
 
 - Built standardized HPC OS images with Spack, Lmod, MPICH, and OpenMPI across CPU/CUDA/ROCm variants.
 - Automated HPC cluster deployment via Ansible — node config, SSH keys, shared storage, MPI hostfiles.
@@ -45,7 +45,7 @@ Read my final report [here](https://ucsc-ospo.github.io/report/osre25/uchicago/m
 
 ### Google Summer of Code Developer, [ArviZ]((https://www.arviz.org/)), [NumFOCUS](https://numfocus.org/)
 May 2024 - August 2024<br>
-Mentor: Osvaldo Martin
+Mentor: [Osvaldo Martin](https://aloctavodia.github.io)
 
 Contributed to PreliZ by adding new enhancements to the predictive methods *ppe* and *predictive_explorer*, 
 and implementing *posterior_to_prior*.
@@ -63,7 +63,7 @@ November 2023 - February 2024 | Pune, India
 
 ### Google Summer of Code Developer, [PyLops](https://github.com/PyLops/pylops), [NumFOCUS](https://numfocus.org/)
 May 2023 - August 2023<br>
-Mentor: Matteo Ravasi, Yuxi Hong
+Mentor: [Matteo Ravasi](https://mrava87.github.io), [Yuxi Hong](https://github.com/hongyx11)
 
 Developed PyLops-MPI, a distributed-computing extension with MPI-based operators and iterative solvers for 
 large-scale inversion problems. For more details, check out this [link](https://summerofcode.withgoogle.com/archive/2023/projects/eNJTJO25).
