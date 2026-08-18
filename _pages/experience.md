@@ -45,7 +45,7 @@ Read my final report [here](https://ucsc-ospo.github.io/report/osre25/uchicago/m
 
 ### Google Summer of Code Developer, [ArviZ]((https://www.arviz.org/)), [NumFOCUS](https://numfocus.org/)
 May 2024 - August 2024<br>
-Mentor: [Osvaldo Martin](https://aloctavodia.github.io)
+Mentor: [Osvaldo Martin](https://aloctavodia.github.io), [Oriol Abril Pla](https://oriolabrilpla.cat)
 
 Contributed to PreliZ by adding new enhancements to the predictive methods *ppe* and *predictive_explorer*, 
 and implementing *posterior_to_prior*.
